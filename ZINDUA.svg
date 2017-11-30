@@ -26,8 +26,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.70710678"
-     inkscape:cx="699.99556"
-     inkscape:cy="326.59892"
+     inkscape:cx="612.51534"
+     inkscape:cy="389.61962"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -43,7 +43,7 @@
        orientation="0,1"
        id="guide3336" />
     <sodipodi:guide
-       position="392.41072,318.03571"
+       position="178.19091,323.85491"
        orientation="1,0"
        id="guide3356" />
     <sodipodi:guide
@@ -59,7 +59,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -90,31 +90,31 @@
          sodipodi:role="line"
          id="tspan3344"
          x="464.28571"
-         y="532.36218"> </tspan></text>
+         y="532.36218" /></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:35.9712944px;line-height:0%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="388.67633"
-       y="733.73846"
+       x="175.13008"
+       y="774.75067"
        id="text3348"
        sodipodi:linespacing="0%"><tspan
          sodipodi:role="line"
          id="tspan3350"
-         x="388.67633"
-         y="733.73846"
-         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;line-height:0%;font-family:'Gotham Thin';-inkscape-font-specification:'Gotham Thin,  Thin';letter-spacing:30.8634758px">MENTORSHIP</tspan></text>
+         x="175.13008"
+         y="774.75067"
+         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;line-height:0%;font-family:'Gotham Thin';-inkscape-font-specification:'Gotham Thin, Thin';letter-spacing:54.5px">MENTORSHIP</tspan></text>
     <text
        xml:space="preserve"
        style="font-style:normal;font-weight:normal;font-size:40.39710617px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
-       x="388.35837"
-       y="782.69067"
+       x="174.84009"
+       y="823.40137"
        id="text3352"
        sodipodi:linespacing="125%"><tspan
          sodipodi:role="line"
          id="tspan3354"
-         x="388.35837"
-         y="782.69067"
-         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-family:'Gotham Thin';-inkscape-font-specification:'Gotham Thin, Thin';letter-spacing:30.44709778px">PROGRAMME</tspan></text>
+         x="174.84009"
+         y="823.40137"
+         style="font-style:normal;font-variant:normal;font-weight:100;font-stretch:normal;font-family:'Gotham Thin';-inkscape-font-specification:'Gotham Thin, Thin';letter-spacing:57px">PROGRAMME</tspan></text>
     <g
        id="g4308"
        transform="matrix(0.83235926,0,0,0.83235926,64.398926,93.77645)"
