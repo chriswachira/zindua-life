@@ -15,7 +15,10 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.91 r13725"
-   sodipodi:docname="ZINDUA.svg">
+   sodipodi:docname="ZINDUA.svg"
+   inkscape:export-filename="/home/chriswachira/Documents/G-Designs/zindua-life/zindua-logo-prototype.png"
+   inkscape:export-xdpi="90"
+   inkscape:export-ydpi="90">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -31,7 +34,7 @@
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     showguides="true"
+     showguides="false"
      inkscape:guide-bbox="true"
      inkscape:window-width="1366"
      inkscape:window-height="722"
@@ -249,5 +252,17 @@
          inkscape:transform-center-x="-18.034413"
          style="opacity:1;fill:#ff0000;fill-opacity:1;stroke:none;stroke-width:1;stroke-linecap:butt;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:140.73043823px;line-height:1000%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:0.22674419;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="-66.526962"
+       y="913.06"
+       id="text3361"
+       sodipodi:linespacing="1000%"
+       transform="matrix(0.90811426,-0.41872246,0.41872246,0.90811426,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan3363"
+         x="-66.526962"
+         y="913.06">SAMPLE</tspan></text>
   </g>
 </svg>
